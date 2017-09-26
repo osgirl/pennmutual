@@ -1,0 +1,15 @@
+{
+  "name": "sk-pennmutual",
+  "version": "1.0.0",
+  "author": "Sunil Katwal",
+  "summary": "Testing for package installation",
+  "license": "N/A",
+  "source": "https://github.com/sunilkatwal17/pennmutual.git",
+  "project_page": "https://github.com/sunilkatwal17/pennmutual",
+  "issues_url": "https://github.com/sunilkatwal17/pennmutual/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
